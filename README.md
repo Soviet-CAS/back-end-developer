@@ -28,7 +28,7 @@
 2.5. List Table Post (CURD)
 2.6. List Assign Posts related with page.
 2.7. List Table Menu(CURD) ( all menu has related with pages )
-2.8. Return data to client of page and post and menu.
+2.8. Return data to client of page and post and menu. (API)
 2.8. Properties of sample
 ````
 ### Front end Help
